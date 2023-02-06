@@ -1,2 +1,2 @@
-## This repo is an exercise from ALX.
+## This repo is an exercise from ALX program.
 
